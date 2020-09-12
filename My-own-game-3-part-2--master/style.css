@@ -1,0 +1,67 @@
+
+html, body {
+  background-image: url('images/droneBg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+html, .body{
+  background-image: url('images/RulesBg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: -20px;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+ button {
+  height: 50px;
+  width: 450px;
+  margin-left: 540px;
+  margin-top: 500px;
+  margin-bottom: 50px;
+  background-image: linear-gradient(to right,rgb(255, 7, 130),rgb(234, 7, 255));
+  font-family: cursive;
+  font-size: medium;
+  border: 1px solid lightgray;
+}
+
+ button:hover{
+  background-image: linear-gradient(to left,rgb(0, 81, 255),rgb(10, 204, 230));
+  border: 1px solid lightgray;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: large;
+  font-stretch: expanded;
+}
+
+
+ .button2{
+    height: 50px;
+    width: 400px;
+    margin-top: 50px;
+    font-family: cursive;
+    background-image: linear-gradient(to left,rgb(0, 81, 255),rgb(10, 204, 230));
+    border: 1px solid lightgray;
+}
+
+.button2:hover{
+  background-image: linear-gradient(to right,rgb(255, 7, 130),rgb(234, 7, 255));
+  font-family: cursive;
+}
+
+h2{
+  margin-top: 50px;
+}
+
+.playername {
+  margin-top: 20%;
+  margin-left: 40%;
+  width: 400px;
+}
